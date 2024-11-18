@@ -53,9 +53,13 @@
 
 I am a well rounded developer with a strong focus on building scalable and efficient Web applications. I work across several different languages and frameworks, and I'm always looking to pick up something new.
 
-- 🌱 I’m currently learning more about and cloud solutions.
-- 💬 Ask me about anything related to full-stack development, DevOps, scripting or just to get in touch.
-- 📫 How to reach me: [cavan@backshift.co.uk](mailto:cavan@backshift.co.uk)
+- 🌱 I’m currently learning more about and scalable cloud architecture, AI & ML.
+- 👨‍💻 My overall skill set covers:
+  - Fullstack Development
+  - Systems Administration
+  - Networking & Security
+  - App Development
+- 📫 If you want to get in touch, feel free to reach me at: [cavan@backshift.co.uk](mailto:cavan@backshift.co.uk)
 
 ---
 
