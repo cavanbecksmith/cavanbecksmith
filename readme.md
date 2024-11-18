@@ -53,7 +53,7 @@
 
 I am a well rounded developer with a strong focus on building scalable and efficient Web applications. I work across several different languages and frameworks, and I'm always looking to pick up something new.
 
-- 🌱 I’m currently learning more about and scalable cloud architecture, AI & ML.
+- 🌱 I’m currently learning more about cloud architecture, AI & ML.
 - 👨‍💻 My overall skill set covers:
   - Fullstack Development
   - Systems Administration
