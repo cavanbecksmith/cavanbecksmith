@@ -1,10 +1,6 @@
-# Hello 👨‍💻 <br/> I'm Cavan <img src="https://backshift.co.uk/img/pikachurun.gif"/>
+# Hello, I'm Cavan 👨‍💻 <img src="https://backshift.co.uk/img/pikachurun.gif"/>
 
 --- 
-
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: skyblue;" src="https://backshift.co.uk/img/ufobar.gif">
-
----
 
 ## 🛠️ Languages & Tools
 
