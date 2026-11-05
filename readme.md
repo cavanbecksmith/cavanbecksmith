@@ -63,13 +63,4 @@ I am a well rounded developer with a strong focus on building scalable and effic
 
 ---
 
-## 🔗 Links
-
-- 👾 Discord - https://discord.gg/BJTv8fhu
-- 💀 Deadbox - https://github.com/DeadboxSoftware
-- ⚙️ Backshift - https://github.com/Backshift
-- 🐋 Docker - https://hub.docker.com/r/monkeybusinez/
-
----
-
 Thanks for stopping by! Feel free to check out my repositories and contribute if you find something interesting.
